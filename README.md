@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rıfat</h1>
 <h3 align="center">I am a self taught developer.</h3>
 
-- 🔭 I’m currently working on Web Design(HTML, CSS etc.
+- 🔭 I’m currently working on Web Design(HTML, CSS etc.)
 
 - 📫 How to reach me **rifatkasikci@gmail.com**
 
