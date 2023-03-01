@@ -4,7 +4,7 @@ Hi 👋 My name is Rıfat
 Full-Stack Web Developer
 ------------------------
 
-I've been learning to code for 2 years. I am a web developer for now. I am aiming to learn concepts that can be more popular in the future like Web3, AR/VR, Artificial Intelligence.
+I've been learning to code for 3 years. I am a web developer for now. I am aiming to learn concepts that can be more popular in the future like Web3, AR/VR, Artificial Intelligence.
 
 * 🌍  I'm based in İzmir/Turkey
 * ✉️  You can contact me at [rifatkasikci@gmail.com](mailto:rifatkasikci@gmail.com)
