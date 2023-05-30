@@ -8,7 +8,7 @@ I've been learning to code for 3 years. I am a web developer for now. I am aimin
 
 * 🌍  I'm based in İzmir/Turkey
 * ✉️  You can contact me at [rifatkasikci@gmail.com](mailto:rifatkasikci@gmail.com)
-* 🚀  I'm currently working on [ETicaretAPI](http://github.com/rifatKasikci/ETicaretAPI)
+* 🚀  I'm currently working on [Spotify-Playlist-Generator](https://github.com/rifatKasikci/spotify-playlist-generator)
 * 🧠  I'm learning .Net Core 6
 
 ### Skills
